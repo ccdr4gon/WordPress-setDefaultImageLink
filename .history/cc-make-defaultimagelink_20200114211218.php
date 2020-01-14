@@ -5,7 +5,7 @@
  * Version:0.1
  * Author: ccdragon
  * Author URI:https://ccdragon.cc
- * Description:wordpress make gutenberg's imageblock link to media file by default
+ * Description: make image block a default value of attribute linkto
  * 
  * 
  */
