@@ -10,6 +10,6 @@
  * 
  */
 wp_enqueue_script( 'makeDefaultImageLink_js',
-    plugins_url( '/js/makeDefaultImageLink.js', __FILE__ ),
+    plugins_url( '/js/cc-make-defaultimagelink.js', __FILE__ ),
     array('wp-blocks')
 );

@@ -1,4 +1,3 @@
-console.log(123123231);
 function modifyLinkDestinationDefault(settings, name) {
     if (name !== "core/image") {
         return settings;
